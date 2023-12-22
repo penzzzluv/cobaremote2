@@ -8,5 +8,9 @@
 <body>
     <h2>Haloo Remote 2</h2>
     <p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</p>
+    <ul>
+        <li>makan</li>
+        <li>minum</li>
+    </ul>
 </body>
 </html>
